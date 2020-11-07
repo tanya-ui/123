@@ -1,0 +1,5 @@
+﻿  31.10.20.cpp
+C:\Users\HP\source\repos\31.10.20\31.10.20\31.10.20.cpp(81,18): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\HP\source\repos\31.10.20\31.10.20\31.10.20.cpp(124,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\HP\source\repos\31.10.20\31.10.20\31.10.20.cpp(129,18): warning C4101: delitem: неиспользованная локальная переменная
+  31.10.20.vcxproj -> C:\Users\HP\source\repos\31.10.20\Debug\31.10.20.exe
